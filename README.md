@@ -44,7 +44,21 @@ July 2018 – Present: **Capgemini India Pvt Ltd.**
 ### Technical Skills
 
 **Programming Languages:** Python, Java, PowerShell.
+
 **Worked on:** Jupyter Notebooks, BlueJ, SharePoint Online, SharePoint Server 2013.
+
+### Interests
+
+- Reading Mystery/Fiction
+- Programming
+- Football
+- Swimming
+- Stargazing
+
+
+### Communication Skills
+
+I am excellent in written and oral communications in English Language. My native language is Hindi.
 
 ### Markdown
 
