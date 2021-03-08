@@ -1,10 +1,10 @@
 ## Résumé
 
-                                                                                                                        Address	    :  A-24, Satsang Nagar Colony, Varanasi.
+Address	    :  A-24, Satsang Nagar Colony, Varanasi.
 
-                                                                                                                        Contact No. : +91-7798410052
+Contact No. : +91-7798410052                                                                                                                        
 
-                                                                                                                        Email ID	  : jatindas201096@gmail.com
+Email ID	  : jatindas201096@gmail.com                                                                                                                        
 
 ### Summary
 Tech-savvy Senior analyst with proficiency in SharePoint Administration and decent knowledge in Python and Machine Learning. Fortes include client management, business operations, and data analysis. 
