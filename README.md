@@ -14,6 +14,33 @@ Currently looking forward to opportunities in the Python and Data analysis domai
 ### Career so far:
 July 2018 – Present: **Capgemini India Pvt Ltd.**
 
+•	Managed SharePoint Infrastructure for multiple clients, including regular patching activities, taking proactive measures to identify potential risks to the infrastructure.
+
+•	Made use of proficient coding skills to make the environment more efficient.
+
+•	Organized system infrastructure documentation and operating procedures, strengthening controls and enhancing overall performance
+
+
+### Education:
+
+- 2018: Bachelor of Engineering in Electronics Stream.
+
+- 2014: Intermediate from St. John’s School, Varanasi (ICSE)
+
+- 2012: High School from St. John’s School, Varanasi (ICSE)
+
+
+### Certifications:
+
+●	Microsoft Azure Fundamentals AZ-900
+
+●	Microsoft 365 Fundamentals MS-900
+
+●	Deep Learning with Python (Udemy)
+
+●	Data Science and AI with Python (Coursera)
+
+
 
 ### Markdown
 
