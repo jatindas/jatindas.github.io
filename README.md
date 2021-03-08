@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
-## Jatin Das
-You can use the [editor on GitHub](https://github.com/jatindas/jatindas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Résumé
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Address	    :  A-24, Satsang Nagar Colony, Varanasi.
+Contact No. : +91-7798410052
+Email ID	  : jatindas201096@mail.com
+
+
+Tech-savvy Senior analyst with proficiency in SharePoint Administration and decent knowledge in Python and Machine Learning. Fortes include client management, business operations, and data analysis. 
+
 
 ### Markdown
 
