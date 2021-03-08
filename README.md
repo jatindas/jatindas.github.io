@@ -6,10 +6,14 @@ Contact No. : +91-7798410052
 
 Email ID	  : jatindas201096@gmail.com
 
-
+### Summary
 Tech-savvy Senior analyst with proficiency in SharePoint Administration and decent knowledge in Python and Machine Learning. Fortes include client management, business operations, and data analysis. 
 
-Currently looking forward to opportunities in the Python world.
+Currently looking forward to opportunities in the Python and Data analysis domain.
+
+### Career so far:
+July 2018 – Present: **Capgemini India Pvt Ltd.**
+
 
 ### Markdown
 
