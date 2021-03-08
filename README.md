@@ -1,7 +1,9 @@
 ## Résumé
 
 Address	    :  A-24, Satsang Nagar Colony, Varanasi.
+
 Contact No. : +91-7798410052
+
 Email ID	  : jatindas201096@gmail.com
 
 
