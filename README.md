@@ -9,6 +9,7 @@ Email ID	  : jatindas201096@gmail.com
 
 Tech-savvy Senior analyst with proficiency in SharePoint Administration and decent knowledge in Python and Machine Learning. Fortes include client management, business operations, and data analysis. 
 
+Currently looking forward to opportunities in the Python world.
 
 ### Markdown
 
